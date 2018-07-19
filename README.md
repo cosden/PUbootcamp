@@ -1,3 +1,10 @@
+Moved to Princeton University GitHub Organization: https://github.com/PrincetonUniversity/PUBootcamp
+
+This repo has been archived.
+
+------------------------------------------------------------------------------------------------------------
+
+
 # 2018 Princeton Computational Bootcamp
 
 Organized by [Princeton Research Computing](https://www.princeton.edu/researchcomputing).
