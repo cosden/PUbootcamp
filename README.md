@@ -1,5 +1,7 @@
 Moved to Princeton University GitHub Organization: https://github.com/PrincetonUniversity/PUBootcamp
 
+Effective July 2018.  
+
 This repo has been archived.
 
 ------------------------------------------------------------------------------------------------------------
